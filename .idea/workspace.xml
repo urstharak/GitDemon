@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f890be9f-821a-4bd1-ae1a-d83187d4cc28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_e2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_e2e.py" afterDir="false" />
-    </list>
+    <list default="true" id="f890be9f-821a-4bd1-ae1a-d83187d4cc28" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +146,7 @@
             <path>
               <item name="GitDemon" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitDemon" type="462c0819:PsiDirectoryNode" />
-              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
