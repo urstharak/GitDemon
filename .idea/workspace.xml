@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f890be9f-821a-4bd1-ae1a-d83187d4cc28" name="Default Changelist" comment="" />
+    <list default="true" id="f890be9f-821a-4bd1-ae1a-d83187d4cc28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/tests/logfile.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_e2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_e2e.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/test_e2e.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="245">
+              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -34,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageObjects/HomePage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="285">
               <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -47,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/TestData/excelDemo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -73,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test_HomePage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="285">
               <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding>
                 <element signature="e#1#53#0" expanded="true" />
@@ -85,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="360">
               <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -107,6 +112,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -133,42 +141,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PythonSelFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonSelFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="GitDemon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitDemon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PythonSelFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonSelFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="GitDemon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitDemon" type="462c0819:PsiDirectoryNode" />
               <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonSelFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonSelFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonSelFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonSelFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="TestData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonSelFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonSelFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestData" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -188,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.excelDemo">
+  <component name="RunManager" selected="Python tests.pytest for test_e2e.TestOne.test_e2e">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonSelFramework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,17 +287,17 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.excelDemo" />
       <item itemvalue="Python tests.pytest in tests" />
       <item itemvalue="Python tests.pytest in test_e2e.py" />
       <item itemvalue="Python tests.pytest for test_e2e.TestOne.test_e2e" />
       <item itemvalue="Python tests.pytest for test_HomePage.TestHomePage.test_formSubmission" />
-      <item itemvalue="Python.excelDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_e2e.TestOne.test_e2e" />
         <item itemvalue="Python.excelDemo" />
         <item itemvalue="Python tests.pytest for test_HomePage.TestHomePage.test_formSubmission" />
-        <item itemvalue="Python tests.pytest for test_e2e.TestOne.test_e2e" />
         <item itemvalue="Python tests.pytest in test_e2e.py" />
         <item itemvalue="Python tests.pytest in tests" />
       </list>
@@ -323,9 +317,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_e2e_TestOne_test_e2e - 2020.07.29 at 18h 20m 20s.xml">
-      <configuration name="pytest for test_e2e.TestOne.test_e2e" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_test_e2e_TestOne_test_e2e - 2020.07.29 at 18h 20m 35s.xml">
       <configuration name="pytest for test_e2e.TestOne.test_e2e" configurationId="tests" />
     </history-entry>
@@ -352,6 +343,9 @@
     </history-entry>
     <history-entry file="pytest_for_test_HomePage_TestHomePage_test_formSubmission - 2020.07.30 at 17h 39m 42s.xml">
       <configuration name="pytest for test_HomePage.TestHomePage.test_formSubmission" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_e2e_TestOne_test_e2e - 2020.07.31 at 17h 38m 56s.xml">
+      <configuration name="pytest for test_e2e.TestOne.test_e2e" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -401,6 +395,19 @@
         <state relative-caret-position="-4211" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_HomePage.py_TestHomePage_test_formSubmission[getData0].png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_e2e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pageObjects/ConfirmPage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -408,26 +415,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/result.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_HomePage.py_TestHomePage_test_formSubmission[getData0].png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/BaseClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pageObjects/HomePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="285">
           <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestData/excelDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -438,9 +439,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/BaseClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_HomePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="285">
           <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding>
             <element signature="e#1#53#0" expanded="true" />
@@ -450,7 +458,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="360">
           <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -458,22 +466,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestData/excelDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_e2e.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/tests/result.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
