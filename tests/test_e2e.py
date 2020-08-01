@@ -28,7 +28,7 @@ class TestOne(BaseClass):
                 checkoutpage.getCardFooter()[i].click()
 
         self.driver.find_element_by_css_selector("a[class*='btn-primary']").click()
-
+	log.info("tharak information")
         confirmpage = checkoutpage.checkOutItems()
         log.info("Entering country name as ind")
         self.driver.find_element_by_id("country").send_keys("ind")
@@ -40,5 +40,5 @@ class TestOne(BaseClass):
         self.driver.find_element_by_css_selector("[type='submit']").click()
         textMatch = self.driver.find_element_by_css_selector("[class*='alert-success']").text
         log.info("Text received from application is "+textMatch)
-
+	log.debug("Tharak insertion")
         assert ("Success! Thank you!" in textMatch)
