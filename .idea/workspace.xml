@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f890be9f-821a-4bd1-ae1a-d83187d4cc28" name="Default Changelist" comment="" />
+    <list default="true" id="f890be9f-821a-4bd1-ae1a-d83187d4cc28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/tharak.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test_e2e.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
@@ -20,6 +22,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/tharak.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -283,10 +290,10 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.excelDemo" />
-      <item itemvalue="Python tests.pytest in tests" />
-      <item itemvalue="Python tests.pytest in test_e2e.py" />
-      <item itemvalue="Python tests.pytest for test_e2e.TestOne.test_e2e" />
       <item itemvalue="Python tests.pytest for test_HomePage.TestHomePage.test_formSubmission" />
+      <item itemvalue="Python tests.pytest for test_e2e.TestOne.test_e2e" />
+      <item itemvalue="Python tests.pytest in test_e2e.py" />
+      <item itemvalue="Python tests.pytest in tests" />
     </list>
     <recent_temporary>
       <list>
@@ -462,6 +469,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/result.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tharak.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
