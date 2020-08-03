@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f890be9f-821a-4bd1-ae1a-d83187d4cc28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/tharak.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/tharak.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tharak.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +27,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/tharak.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -131,6 +136,7 @@
         <option value="$PROJECT_DIR$/tests/test_HomePage.py" />
         <option value="$PROJECT_DIR$/TestData/excelDemo.py" />
         <option value="$PROJECT_DIR$/tests/test_e2e.py" />
+        <option value="$PROJECT_DIR$/tests/tharak.txt" />
       </list>
     </option>
   </component>
@@ -149,11 +155,6 @@
             <path>
               <item name="GitDemon" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitDemon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GitDemon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitDemon" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -472,7 +473,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/tharak.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
